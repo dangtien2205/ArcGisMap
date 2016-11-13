@@ -15,6 +15,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.tienbi.arcgismap.account.AccountManager;
+import com.example.tienbi.arcgismap.activity.MainActivity;
 import com.example.tienbi.arcgismap.dialogs.ProgressDialogFragment;
 import com.example.tienbi.arcgismap.util.TaskExecutor;
 import com.esri.core.portal.Portal;
